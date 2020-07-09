@@ -1,0 +1,23 @@
+.product-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    text-align: center;
+}
+
+.product-container > .Link{
+    text-align: center;
+    width: 300px;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.product-container > .Link:hover{
+    width: 350px;
+    box-shadow: 0 0 10px #463636;
+}
+
+.black-text{
+    color: black;
+    text-decoration: none;
+}

@@ -1,9 +1,9 @@
 import React from 'react'
-
+import Crousel from './Crousel' 
 const Home = () => {
     return (
         <div>
-            welcome home
+           <Crousel></Crousel>
         </div>
     )
 }

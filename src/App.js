@@ -1,9 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import RouteConfig from './RouteConfig';
 
 function App() {
+
+  // setTimeout(()=>console.log("abs" + screen.width), 100)
+  
+
   return (
     <div className="">
       <RouteConfig></RouteConfig>

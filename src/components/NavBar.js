@@ -5,7 +5,7 @@ import './../styles/NavBar.css'
 
 const NavBar = () => {
 
-    const [value, setValue] = React.useState(0);
+
 
     
         return (
